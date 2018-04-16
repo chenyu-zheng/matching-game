@@ -11,14 +11,14 @@ This is a web game that requires you to match pairs of cards. The less moves you
 ## Parts of the Game
 
 <img src="./readmeimages/panel.png" width="500px" height="100%" style="display:block;" alt="deck">
-* **Star Rating:** Your score is rated by number of stars.
-* **Move Count:** Each pair of cards that you open (no matter match or not) will increase the number by 1. This number affects your `star rating`.
-* **Timer:** Shows how many secods you spend. This is just for your reference; it will **not** affect your `star rating`.
-* **Difficulties:** Once you change difficulty, the game will restart.
-* **Restart:** You can restart game at anytime by clicking this button.
+- **Star Rating:** Your score is rated by number of stars.
+- **Move Count:** Each pair of cards that you open (no matter match or not) will increase the number by 1. This number affects your `star rating`.
+- **Timer:** Shows how many secods you spend. This is just for your reference; it will **not** affect your `star rating`.
+- **Difficulties:** Once you change difficulty, the game will restart.
+- **Restart:** You can restart game at anytime by clicking this button.
 
 <img src="./readmeimages/deck.png" width="300px" height="100%" style="display:block;" alt="deck">
-* **Deck:** The deck has 16 cards, composed of 8 pairs, face down in random order.
+- **Deck:** The deck has 16 cards, composed of 8 pairs, face down in random order.
 
 
 ## How to Play
