@@ -3,7 +3,6 @@
 [![Generic badge](https://img.shields.io/badge/Made%20with-JavaScript-50E040.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ![Game](./readmeimages/play-normal-4.gif)
-
 This is a web game that requires you to guess and match cards. The less moves you take the higher score you get. There's an Expert mode for someone who wants more challenges.
 ## Parts of the Game
 * Deck\
