@@ -5,7 +5,7 @@
 ![Game](./readmeimages/play-normal-4.gif)
 This is a web game that requires you to guess and match cards. The less moves you take the higher score you get. There's an Expert mode for someone who wants more challenges.
 ## Parts of the Game
-* Deck\
+* Deck
 <img src="./readmeimages/deck.png" width="300px" height="100%" alt="deck">
 * Score Panel
 
