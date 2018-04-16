@@ -22,11 +22,11 @@ This is a web game that requires you to match pairs of cards. The less moves you
 ## Parts of the Game
 
 ### Deck
-The deck has 16 cards, composed of 8 pairs, face down in random order.
+The deck has 16 cards, composed of 8 pairs, face down in random order.\
 <img src="./readmeimages/deck.png" width="300px" height="100%" alt="deck">
 
 ### Score Panel
-Here shows the moves and time you spend in a game. 
+Here shows the moves and time you spend in a game. \
 <img src="./readmeimages/score-panel.png" width="250px" height="100%" alt="deck">
 
 ### Difficulty selection & restart
