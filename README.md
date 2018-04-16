@@ -5,7 +5,7 @@
 
 ![Game](./readmeimages/play-normal.gif)
 
-This is a web game that requires you to match pairs of cards. The less moves you take the higher score you get. You can choose **Expert** mode for more challenges.
+This is a web game that requires you to match pairs of cards. The less moves you take the higher score you get. You can choose `Expert` mode for more challenges.
 
 
 ## Parts of the Game
@@ -13,8 +13,8 @@ This is a web game that requires you to match pairs of cards. The less moves you
 <img src="./readmeimages/panel.png" width="500px" height="100%" alt="deck">
 
 * **Star Rating:** Your score is rated by number of stars.
-* **Move Count:** Each pair of cards that you open (no matter match or not) will increase the number by 1. This number affects your `star rating`.
-* **Timer:** Shows how many secods you spend. This is just for your reference; it will **not** affect your `star rating`.
+* **Move Count:** Each pair of cards that you open (no matter match or not) will increase the number by 1. This number affects your `Star Rating`.
+* **Timer:** Shows how many secods you spend. This is just for your reference; it will **not** affect your `Star Rating`.
 * **Difficulties:** Once you change difficulty, the game will restart.
 * **Restart:** You can restart game at anytime by clicking this button.
 
